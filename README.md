@@ -164,7 +164,7 @@ https://yeisonparra.com
 
 # 📊 Estadísticas
 
-
+<p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SrYP224&show_icons=true&theme=tokyonight"/>
 
